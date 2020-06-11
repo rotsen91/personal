@@ -2,7 +2,7 @@ module.exports = {
   icon: [
     {
       size: 16,
-      url: 'https://mazipan.github.io/favicon/favicon-16x16.png',
+      url: 'null',
     }
   ],
   pageTitle: 'CV - Nestor Morales',
@@ -33,15 +33,13 @@ module.exports = {
       title: 'Technical Director',
       period: 'JUN 2019 - PRESENT',
       jobdesc: [
+        'Staffed and managed all aspects of the operations and engineering.',
         'Follow and maintain established budgets with the CFO as well as tracking and forecasting to improve efficiency and implement cost saving measures',
-        'Corporate responsibilities such as, but not limited to, introducing agile organizational concepts, BD contributions, functional, and triaging operational decisions.',
+        'Corporate responsibilities such as, but not limited to, introducing agile organizational concepts, triaging operational decisions and analyzing business needs, technology, and enterprise applications.',
         'Lead and supervise technology team to build and maintain web solution platforms for drones.',
-        'Analyze business needs, technology, and enterprise applications in distributed environments.',
-        'Manage, maintain, and purchase all technical equipment needed for Red Cat Holdings and its subsidiaries.',
+        'Responsible for managing full P&L for product development, software and hardware purchases and R&D.',
         'Created technical documentation for requirements gathering and future deliverables.',
-        'Supported junior engineers and providing mentorship to new members of staff'
-        
-
+        'Support junior engineers and providing mentorship to new members of staff'
       ],
     },
     {
