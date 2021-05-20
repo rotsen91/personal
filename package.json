@@ -49,7 +49,7 @@
     "@babel/plugin-proposal-numeric-separator": "^7.10.1",
     "@babel/runtime": "^7.10.2",
     "bulma-dracula": "^1.0.3",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "html2canvas": "^1.0.0-rc.1",
     "jspdf": "^1.5.3",
     "purgecss-webpack-plugin": "^1.5.0",
